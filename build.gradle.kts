@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    implementation("io.github.ifropc.kotomo:kotomo-jvm:0.0.1-SNAPSHOT")
+    implementation("io.github.ifropc.kotomo:kotomo-jvm:0.1")
     implementation("ch.qos.logback:logback-classic:1.0.13")
     testImplementation(kotlin("test"))
 }
